@@ -1,5 +1,5 @@
 # Chat-History
-This repository only works on [https://www.roblox.com/create](ROBLOX Studio).
+This repository only works on ROBLOX Studio.
 
 # How to add this on my game.
 1. Right click on Workspace, and Insert from file.
